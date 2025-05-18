@@ -36,4 +36,7 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-app-example
+# Excluded platforms
+android/
+ios/
+web
